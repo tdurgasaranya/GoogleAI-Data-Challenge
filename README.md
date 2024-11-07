@@ -1,6 +1,7 @@
 # GoogleAI Data Challenge
 Google's Women Techmakers presents She Builds AI - https://womentechmakers.devpost.com/
-Category : Women and girl’s Economic Equality and Leadership Subject: Tech Layoffs impact on Women economically and professionally
+
+- Category : Women and girl’s Economic Equality and Leadership Subject: Tech Layoffs impact on Women economically and professionally
 
 ## Introduction
 The technology sector has long been a male-dominated industry, where women have faced various barriers, including gender bias in hiring, retention, and promotion. This inequality has become more apparent during periods of economic downturn, particularly during mass layoffs. Recent data and studies suggest that women have been disproportionately affected by tech layoffs, exacerbating the gender gap in the industry. This paper explores the extent of gender bias in tech layoffs, analyzing the impact on women’s employment and financial stability, and offering insights into the contributing factors behind this disparity.
