@@ -30,3 +30,7 @@ urls = [
 for url in urls:
     data = extract_data(url)
     print(f"Data from {url}: {data}")
+
+Adjust the Code for Each Website:
+Inspect the HTML: Use your browser's developer tools to examine the website's HTML structure and find the elements that contain the data you need.
+Modify the extract_data function: Adjust the code inside the function to identify the specific elements you need to extract the data points (e.g., soup.find('p'), soup.find('span'), soup.find('div'), etc.)
