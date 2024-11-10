@@ -1,0 +1,68 @@
+Data points extracted from webscraping, data sources as URLS which are research articles with numerical data & statistics used for this project to visualize and show in graphs
+
+URL 1: https://www.kaleida.team/blog/do-tech-layoffs-hurt-women-more
+Gender Distribution in Tech Layoffs: Unfortunately, this article doesn't provide specific numbers for the gender distribution of tech layoffs. It focuses on the general impact of layoffs on women but lacks concrete data points.
+URL 2: https://365datascience.com/trending/who-was-affected-by-the-2022-2023-tech-layoffs/
+Gender Distribution in Tech Layoffs:
+56% of laid-off employees were women
+43.8% of laid-off employees were men
+0.2% identified with they/them pronouns
+URL 3: https://leaddev.com/career-development/tech-layoffs-are-making-things-worse-women-leadership
+Comparison of Earnings Losses: This article doesn't provide direct numerical comparisons but states that "women's earnings losses are about 35% higher than men's."
+Gender Distribution in Tech Layoffs: No specific numbers are provided.
+Leadership:
+35% of tech leaders were women in 1984
+32% of tech leaders were women in 2022
+28% of tech leaders were women in 2023
+URL 4: https://365datascience.com/trending/the-aftermath-of-the-big-tech-layoffs/
+Gender Distribution in Tech Layoffs: No specific numbers are provided.
+Attrition Rates:
+Women leave tech jobs at a 45% higher rate than men.
+URL 5: https://www.axios.com/2023/07/06/tech-layoffs-2023-female-workers
+Gender Distribution in Tech Layoffs:
+Women made up 45% of laid-off tech employees from October 2022 to June 2023.
+Men made up 55% of laid-off tech employees during that time.
+Number of Laid-Off Employees Finding New Jobs:
+31% of laid-off women found new jobs.
+38% of laid-off men found new jobs.
+URL 6: https://www.cbs.dk/en/cbs-agenda/areas/news/new-study-being-laid-off-affects-women-more-severely-than#:~:text=Women%20lose%20more%20income%20than,women%20who%20lose%20their%20job.
+Comparison of Earnings Losses:
+Women experience a 45% higher risk of remaining unemployed after losing their job.
+Women lose a significantly larger amount of income than men when laid off.  
+URL 7: https://www.intoo.com/us/blog/19-fascinating-stats-on-layoff-anxiety-infographic/#:~:text=23%%20of%20those%20who%20experienced%20a%20layoff/termination/joblessness,jobs%20as%20compared%20to%2036%%20of%20women. Number of Laid-off Employees who found new jobs: It provides a general statement that "38% of men found new jobs within 1 year as compared to 36% of women.
+
+
+
+
+
+Gender Distribution in Tech Layoffs (2022-2023)
+
+Type: Bar Chart
+Data Points:
+Women: 56% (URL 2)
+Men: 43.8% (URL 2)
+They/Them: 0.2% (URL 2)
+Leadership Representation of Women in Tech Over Time
+
+Type: Line Chart
+Data Points:
+1984: 35% (URL 3)
+2022: 32% (URL 3)
+2023: 28% (URL 3)
+Attrition Rate Comparison by Gender
+
+Type: Bar Chart
+Data Points:
+Women leave tech jobs 45% more frequently than men (URL 4)
+Reemployment Rates of Laid-Off Tech Employees by Gender
+
+Type: Bar Chart
+Data Points:
+Women finding new jobs: 31% (URL 5), 36% (within 1 year; URL 6)
+Men finding new jobs: 38% (URL 5), 38% (within 1 year; URL 6)
+Comparison of Earnings Losses and Unemployment Risks Post-Layoff
+
+Type: Bar Chart
+Data Points:
+Women's earnings losses are about 35% higher than men's (URL 3)
+Women experience a 45% higher risk of remaining unemployed (URL 6)
